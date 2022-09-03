@@ -1,4 +1,7 @@
 let mensagem:string;
 mensagem = 'Edivan  santos';
 
-mensagem = 'pasosaf'
+
+let numero: number;
+numero = 34;
+
