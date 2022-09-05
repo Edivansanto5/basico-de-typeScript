@@ -12,7 +12,15 @@ console.log(animais);
 
 
 //typeAnnotacion do tipo objeto
+let pessoa:{
+    nome:string;
+    idade:number;
+    sexo:string;
+    peso:number
+}
 
+pessoa={nome:'Maria de ludes',idade:33,sexo:'Masculino',peso:1.98}
+console.log(pessoa);
 
 // typeAnnotacion do tipo function
 
