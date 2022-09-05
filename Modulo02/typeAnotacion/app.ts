@@ -45,3 +45,5 @@ MediaNota(6,7,9,5)
 
 
 // 
+ console.log('teste');
+ 

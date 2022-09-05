@@ -23,3 +23,4 @@ function MediaNota(nota01, nota02, nota03, nota04) {
 }
 MediaNota(6, 7, 9, 5);
 // 
+console.log('teste');
